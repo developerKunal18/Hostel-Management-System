@@ -1,0 +1,19 @@
+HostelManagementSystem/
+│
+├── main.py
+├── config.py
+├── storage.py
+├── utils.py
+├── student_manager.py
+├── room_manager.py
+├── fee_manager.py
+├── report_manager.py
+│
+├── data/
+│   ├── students.json
+│   ├── rooms.json
+│   └── payments.json
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
